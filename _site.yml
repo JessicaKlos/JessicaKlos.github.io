@@ -1,4 +1,5 @@
 name: "Jessica Klos"
+output_dir: "."
 navbar:
   title: "Jessica Klos"
   left:
