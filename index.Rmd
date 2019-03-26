@@ -2,14 +2,6 @@
 title: "Homepage"
 ---
 
-# some data
-```{r cars}
-library(knitr)
-summary(cars)
-```
+# homepage
 
-# some plot
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
 
